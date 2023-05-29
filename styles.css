@@ -1,0 +1,29 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+.h1,
+.h2 {
+    font-size: 30px;
+    color:green;
+    font-weight: lighter;
+}
+
+.h1 {
+    font-size: 36px;
+}
+
+.intro {
+    font-size: 28px;
+    color: blue
+}
+
+.list {
+    font-size: 22px;
+    color: red;
+}
+
+.image {
+    height: 200px;
+    width: auto;
+}
